@@ -31,7 +31,7 @@ int sumMatrix[4][4];
 
 
 
-cout << "\n the 4x4 matris is: "<< endl;
+cout << "\n the 4x4 matrix1 is: "<< endl;
     for (int i =0; i< 4 ; i++){
          for (int j =0; j< 4 ; j++){
         cout << matrix1[i][j]<< " ";
@@ -39,7 +39,7 @@ cout << "\n the 4x4 matris is: "<< endl;
     cout << endl;
 }
 
-cout << "\n the 4x4 matris is: "<< endl;
+cout << "\n the 4x4 matrix2 is: "<< endl;
     for (int i =0; i< 4 ; i++){
          for (int j =0; j< 4 ; j++){
         cout <<matrix2[i][j]<< " ";
@@ -47,7 +47,7 @@ cout << "\n the 4x4 matris is: "<< endl;
     cout << endl;
 }
 
-cout << "\n the 4x4 matris is: "<< endl;
+cout << "\n the  Sum 4x4 matrix is: "<< endl;
     for (int i =0; i< 4 ; i++){
          for (int j =0; j< 4 ; j++){
         cout << sumMatrix[i][j]<< " ";

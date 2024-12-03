@@ -13,7 +13,7 @@ int matrix[3][3];
   }
 
 
-cout << "\n the 3x3 matris is: "<< endl;
+cout << "\n the 3x3 matrix is: "<< endl;
     for (int i =0; i< 3 ; i++){
          for (int j =0; j< 3 ; j++){
 
